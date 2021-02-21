@@ -30,7 +30,6 @@ function App() {
     <div>
       <NavBar />
       <Home />
-      <NavBar/>
       <About />
     </div>
   );
